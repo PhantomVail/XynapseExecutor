@@ -1,0 +1,23 @@
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Xynapse ExecutorV4.exe.config
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Xynapse ExecutorV4.exe
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Xynapse ExecutorV4.pdb
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.csproj.AssemblyReference.cache
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse_ExecutorV4.Form1.resources
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse_ExecutorV4.Properties.Resources.resources
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.csproj.GenerateResource.cache
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.csproj.CoreCompileInputs.cache
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse .093C93F9.Up2Date
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.exe
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.pdb
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Guna.UI2.dll
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Xynapse ExecutorV4.exe.manifest
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\bin\x64\Debug\Xynapse ExecutorV4.application
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.exe.manifest
+C:\Users\YP2\source\repos\Xynapse ExecutorV4\Xynapse ExecutorV4\obj\x64\Debug\Xynapse ExecutorV4.application
